@@ -12,7 +12,7 @@ Let's look at Makefile to run a command that we need.
 Execute `make runES` to turn on our Elasticsearch locally.
 
 ### Running CRUD Server
-Execute `make run` to run our CRUD Server
+Execute `make run` to run our CRUD Server.
 
 ### Stop Elasticsearch
 Execute `make stopES` to teardown running Elasticsearch.
